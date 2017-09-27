@@ -1,10 +1,10 @@
 # Ionic 3 Chat
 
-A chat application made using Ionic 3 and firebase.
+## Episode 14
 
-(Please note that this is a work in progress).
+### Removing members and group info
 
-For individual parts of this entire app please check my other repos.
+The code for the fourteenth part of the series. For further details - http://tphangout.com/?p=721
 
 Thanks.
 
